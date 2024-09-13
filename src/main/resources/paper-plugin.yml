@@ -1,0 +1,4 @@
+name: wordref
+version: '1.0-SNAPSHOT'
+main: kr.oein.wordref.Wordref
+api-version: '1.21'
